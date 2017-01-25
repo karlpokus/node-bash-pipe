@@ -1,0 +1,20 @@
+{
+  "name": "node-bash-pipe",
+  "version": "1.0.0",
+  "description": "parse bash commands with n pipes",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/node-bash-pipe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/node-bash-pipe/issues"
+  },
+  "homepage": "https://github.com/karlpokus/node-bash-pipe#readme",
+  "dependencies": {}
+}
